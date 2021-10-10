@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"br.com.gamestore.share","c":"SwaggerConfiguration","l":"productApi()"},{"p":"br.com.gamestore.share","c":"SwaggerConfiguration","l":"SwaggerConfiguration()","url":"%3Cinit%3E()"}]
